@@ -1,0 +1,7 @@
+.idea/
+target/
+secrets/
+.metals/
+.bloop/
+node_modules/
+null/
